@@ -1,11 +1,11 @@
 ALL RIGHTS RESERVED
 
-Copyright (c) 2026 Code Anchor Limited. All rights reserved.
+Copyright (c) 2026 Sharples Bookeeping. All rights reserved.
 
 
 LICENCE AGREEMENT
 
-This Licence Agreement ("Agreement") is entered into between Code Anchor Limited
+This Licence Agreement ("Agreement") is entered into between Sharples Bookeeping
 ("the Owner") and any person or entity accessing, viewing or otherwise interacting
 with this work ("the Recipient").
 
